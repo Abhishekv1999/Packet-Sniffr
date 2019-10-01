@@ -6,4 +6,4 @@ Allows the user to be able to view Source of the packets, Target host and the ty
 ## Requirement
   - Python 3.x
   - Privileged/Administrative Rights
-  - Linux 
+  - linux
